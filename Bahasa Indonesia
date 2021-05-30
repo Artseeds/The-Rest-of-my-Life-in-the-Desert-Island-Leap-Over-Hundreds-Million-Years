@@ -12,6 +12,14 @@
         "Pohon Komik": "/proxy/api/imgur/chapter/D19Rb1E/"
       },
       "last_updated": "1616368746"
+    },
+    "02": {
+      "title": "Gula Jeli",
+      "volume": "00",
+      "groups": {
+        "Pohon Komik": "/proxy/api/imgur/chapter/hbWWDv9/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
